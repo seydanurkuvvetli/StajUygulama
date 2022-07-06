@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\bin\Debug\StajEgitim.exe.config
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\bin\Debug\StajEgitim.exe
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\bin\Debug\StajEgitim.pdb
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\obj\Debug\StajEgitim.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\obj\Debug\StajEgitim.Properties.Resources.resources
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\obj\Debug\StajEgitim.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\obj\Debug\StajEgitim.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\obj\Debug\StajEgitim.exe
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\obj\Debug\StajEgitim.pdb
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\obj\Debug\StajEgitim.Form1.resources
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\obj\Debug\StajEgitim.Anasayfa.resources
+C:\Users\Administrator\source\repos\StajEgitim\StajEgitim\obj\Debug\StajEgitim.Listele.resources
